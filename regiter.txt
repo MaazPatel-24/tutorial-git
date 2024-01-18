@@ -1,0 +1,4 @@
+function registor(login)
+{
+	return 0;
+}
